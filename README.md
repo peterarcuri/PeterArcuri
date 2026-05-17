@@ -48,14 +48,15 @@ Software developer transitioning into DevSecOps with a focus on:
 
 ---
 
-## Feautured Projects
+# Featured DevSecOps Projects
 
 | Project | Focus |
 |---|---|
-| Linux Hardening Audit Tool | Linux Security |
-| Network Recon Scanner | Networking & Recon |
-| OWASP Smoke Tester | Application Security |
-| Secure CI/CD Pipeline | DevSecOps Automation |
+| [DevSecOps Playground](https://github.com/PeterArcuri/devsecops-playground) | Central roadmap & portfolio hub |
+| [Phase 1 Linux Hardening Audit Tool](https://github.com/PeterArcuri/phase-1-linux-hardening-audit-tool) | Linux Security |
+| [Phase 1 Network Recon Scanner](https://github.com/PeterArcuri/phase-1-network-recon-security-scanner) | Networking |
+| [Phase 1 OWASP Smoke Testing Framework](https://github.com/PeterArcuri/phase-1-owasp-smoke-testing-framework) | Application Security |
+| [Phase 1 Secure Nginx Reverse Proxy Lab](https://github.com/PeterArcuri/phase-1-secure-nginx-reverse-proxy-lab) | Reverse Proxy Security & TLS |
 
 ---
 
