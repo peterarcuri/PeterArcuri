@@ -59,6 +59,13 @@ Software developer transitioning into DevSecOps with a focus on:
 | [Phase 1 OWASP Smoke Testing Framework](https://github.com/PeterArcuri/phase-1-owasp-smoke-testing-framework) | Application Security |
 | [Phase 1 Secure Nginx Reverse Proxy Lab](https://github.com/PeterArcuri/phase-1-secure-nginx-reverse-proxy-lab) | Reverse Proxy Security & TLS |
 
+| Project | Focus |
+|---|---|
+| [DevSecOps Playground](https://github.com/PeterArcuri/devsecops-playground) | Central roadmap & portfolio hub |
+| [Phase 2 Git Workflow PR Automation](https://github.com/peterarcuri/phase-2-git-workflow-pr-automation.git) | Git Workflow |
+| [Phase 2 Dockerized Secure App](https://github.com/peterarcuri/phase-2-dockerized-secure-app.git) | Docker |
+| [Phase 2 GitHub Actions Secure CI Pipeline](https://github.com/peterarcuri/phase-2-github-actions-secure-ci-pipeline.git) | GitHub Actions |
+| [Phase 2 Jenkins Pipeline Lab](https://github.com/peterarcuri/phase-2-jenkins-pipeline-lab.git) | Jenkins |
 ---
 
 ## 🧠 Skills Matrix
