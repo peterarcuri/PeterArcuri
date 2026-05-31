@@ -24,9 +24,10 @@ Software developer transitioning into DevSecOps with a focus on:
  - Bash & Python Automation
  
 ### Phase 2 - DevOps & CI/CD
+- Git workflow
 - Docker
-- Jenkins
 - Github Actions
+- Jenkins
 
 ### Phase 3 - Security Integration
 - SAST
