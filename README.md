@@ -66,6 +66,14 @@ Software developer transitioning into DevSecOps with a focus on:
 | [Phase 2 Dockerized Secure App](https://github.com/peterarcuri/phase-2-dockerized-secure-app.git) | Docker |
 | [Phase 2 GitHub Actions Secure CI Pipeline](https://github.com/peterarcuri/phase-2-github-actions-secure-ci-pipeline.git) | GitHub Actions |
 | [Phase 2 Jenkins Pipeline Lab](https://github.com/peterarcuri/phase-2-jenkins-pipeline-lab.git) | Jenkins |
+
+| Project | Focus |
+|---|---|
+| [DevSecOps Playground](https://github.com/PeterArcuri/devsecops-playground) | Central roadmap & portfolio hub |
+| [Phase 3 Security Scanning Pipeline](https://github.com/peterarcuri/phase-3-security-scanning-pipeline.git) | Git Workflow |
+| [Phase 3 Secrets Management Lab](https://github.com/peterarcuri/phase-3-secrets-management-lab.git) | Docker |
+| [Phase 3 Container Image Security Scanner](https://github.com/peterarcuri/phase-3-container-image-security-scanner.git) | GitHub Actions |
+| [Phase 3 Secure API Testing Lab](https://github.com/peterarcuri/phase-3-secure-api-testing-lab.git) | Jenkins |
 ---
 
 ## 🧠 Skills Matrix
