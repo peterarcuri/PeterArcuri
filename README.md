@@ -70,10 +70,10 @@ Software developer transitioning into DevSecOps with a focus on:
 | Project | Focus |
 |---|---|
 | [DevSecOps Playground](https://github.com/PeterArcuri/devsecops-playground) | Central roadmap & portfolio hub |
-| [Phase 3 Security Scanning Pipeline](https://github.com/peterarcuri/phase-3-security-scanning-pipeline.git) | Git Workflow |
-| [Phase 3 Secrets Management Lab](https://github.com/peterarcuri/phase-3-secrets-management-lab.git) | Docker |
-| [Phase 3 Container Image Security Scanner](https://github.com/peterarcuri/phase-3-container-image-security-scanner.git) | GitHub Actions |
-| [Phase 3 Secure API Testing Lab](https://github.com/peterarcuri/phase-3-secure-api-testing-lab.git) | Jenkins |
+| [Phase 3 Security Scanning Pipeline](https://github.com/peterarcuri/phase-3-security-scanning-pipeline.git) | SAST / DAST / SCA |
+| [Phase 3 Secrets Management Lab](https://github.com/peterarcuri/phase-3-secrets-management-lab.git) | Secrets Management |
+| [Phase 3 Container Image Security Scanner](https://github.com/peterarcuri/phase-3-container-image-security-scanner.git) | Supply Chain |
+| [Phase 3 Secure API Testing Lab](https://github.com/peterarcuri/phase-3-secure-api-testing-lab.git) | Advanced API Security Testing |
 ---
 
 ## 🧠 Skills Matrix
